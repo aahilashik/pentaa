@@ -30,7 +30,7 @@ def handle(msg):
     elif command =='off':
        bot.sendMessage(chat_id, off(11))
 
-bot = telepot.Bot(AAEus0m8hJOj)
+bot = telepot.Bot (AAEus0m8hJOj)
 bot.message_loop(handle)
 print 'I am listening...'
 
