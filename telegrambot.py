@@ -1,4 +1,4 @@
-#coder :- Salman Faris
+#coder :- Optimus
 
 import sys
 import time
